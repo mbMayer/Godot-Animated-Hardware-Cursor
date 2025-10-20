@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="CursorConfig" load_steps=3 format=3 uid="uid://cc7664bywpfcy"]
+
+[ext_resource type="Script" uid="uid://sxou6vfijepl" path="res://addons/animated_hardware_cursor/AnimatedCursorConfig.gd" id="1_8mk3k"]
+[ext_resource type="SpriteFrames" uid="uid://debrtytqyt4gj" path="res://addons/animated_hardware_cursor/cursor_spritesheet_resource.tres" id="1_hde2e"]
+
+[resource]
+script = ExtResource("1_8mk3k")
+frames_per_second = 15.0
+cursor_hotspot = Vector2(11, 44)
+cursor_sprite_frames = ExtResource("1_hde2e")
+metadata/_custom_type_script = "uid://sxou6vfijepl"

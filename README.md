@@ -19,3 +19,5 @@
 
 <br>
 <img src="https://github.com/mbMayer/Godot-Animated-Hardware-Cursor/blob/main/godotanimatedhardwarecursor.gif"/></h1>
+<br>
+<img src="https://github.com/mbMayer/Godot-Animated-Hardware-Cursor/blob/main/gif.gif"/></h1>

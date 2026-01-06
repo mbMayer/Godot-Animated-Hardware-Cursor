@@ -19,6 +19,8 @@
 
 <br>
 <img src="https://github.com/mbMayer/Godot-Animated-Hardware-Cursor/blob/main/godotanimatedhardwarecursor.gif"/></h1>
-- Compartion with Software Cursor (see delay)
+Compartion with Software Cursor (see delay)
+<br>
+Settings
 <br>
 <img src="https://github.com/mbMayer/Godot-Animated-Hardware-Cursor/blob/main/gif.gif"/></h1>
